@@ -18,7 +18,7 @@ export default function FooterCom(){
                     <div>
                     <Footer.Title title='About'></Footer.Title>
                     <Footer.LinkGroup col>
-                        <Footer.Link href='https://Rahul1971.github.io/Rahul-Portfolio/' target='_blank' rel='noopener norefere' >
+                        <Footer.Link href='' target='_blank' rel='noopener norefere' >
                             My Portfolio
                         </Footer.Link>
                         <Footer.Link href='/about' target='_blank' rel='noopener norefere' >
@@ -29,10 +29,10 @@ export default function FooterCom(){
                     <div>
                     <Footer.Title title='Follow Us'></Footer.Title>
                     <Footer.LinkGroup col>
-                        <Footer.Link href='http://www.github.com/Rahul1971' target='_blank' rel='noopener norefere' >
+                        <Footer.Link href='http://www.github.com/Rahul-2101' target='_blank' rel='noopener norefere' >
                             Github
                         </Footer.Link>
-                        <Footer.Link href='https://leetcode.com/Rahul_1357/' target='_blank' rel='noopener norefere' >
+                        <Footer.Link href='https://leetcode.com/u/RahulYadav117/' target='_blank' rel='noopener norefere' >
                             LeetCode
                         </Footer.Link>
                     </Footer.LinkGroup>

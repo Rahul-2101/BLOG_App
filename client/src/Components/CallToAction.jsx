@@ -12,7 +12,7 @@ function CallToAction() {
             <p className='text-gray-500 my-2'>
                 Checkout my github repositories with interesting projects
             </p>
-            <Button gradientDuoTone='purpleToPink'className='rounded-tl-xl rounded-bl-none'><a href='https://github.com/Rahul1971' target='_blank' rel='noopener noreferrer' ><BsGithub></BsGithub> GitHub</a></Button>
+            <Button gradientDuoTone='purpleToPink'className='rounded-tl-xl rounded-bl-none'><a href='https://github.com/Rahul-2101' target='_blank' rel='noopener noreferrer' ><BsGithub></BsGithub> GitHub</a></Button>
         </div >
         <div className='p-7 flex-1'>
             <img src="https://img.freepik.com/free-photo/cute-cat-with-computer_23-2150932178.jpg?t=st=1713000463~exp=1713004063~hmac=63a1b503cd8f537e4fd90a85a612685e6c4e8e1873d943f9e0ff35a1bc4d0d46&w=996"  />
